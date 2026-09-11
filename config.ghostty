@@ -1,0 +1,28 @@
+# Font
+font-family = "JetBrainsMono Nerd Font"
+font-size = 11
+font-feature = +liga
+font-feature = +calt
+
+# Window
+# window-padding-x = 12
+# window-padding-y = 12
+window-decoration = false
+background-opacity = 0.5
+background-blur-radius = 20
+window-theme = dark
+
+# Cursor
+cursor-style = block
+cursor-style-blink = true
+
+# Scrollback
+scrollback-limit = 100000
+
+# Mouse
+mouse-hide-while-typing = true
+copy-on-select = clipboard
+
+# Shell integration (auto-detected, but explicit is nice)
+shell-integration = detect
+shell-integration-features = cursor,sudo,title
