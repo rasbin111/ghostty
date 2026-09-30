@@ -26,3 +26,10 @@ copy-on-select = clipboard
 # Shell integration (auto-detected, but explicit is nice)
 shell-integration = detect
 shell-integration-features = cursor,sudo,title
+
+# === Tabs ===
+# gtk-tabs-location = hidden
+# gtk-tabs-location = bottom
+# gtk-wide-tabs = false
+
+gtk-custom-css = ~/.config/ghostty/ghostty-style.css
