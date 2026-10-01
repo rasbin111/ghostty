@@ -8,7 +8,7 @@ font-feature = +calt
 # window-padding-x = 12
 # window-padding-y = 12
 window-decoration = false
-background-opacity = 0.79
+background-opacity = 0.71
 background-blur-radius = 20
 window-theme = dark
 
